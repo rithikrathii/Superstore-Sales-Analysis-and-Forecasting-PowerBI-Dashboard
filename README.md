@@ -1,5 +1,5 @@
 # Superstore-Sales-Analysis-and-Forecasting-PowerBI-Dashboard
-# Superstore Sales Analysis and Forecasting
+
 
 ![cashier-and-customer-with-grocery-trolley-and-basket-at-supermarket-checkout-counter-illustration-vector](https://github.com/user-attachments/assets/6548ccd1-cacb-404f-a152-5f9a80c0f5f0)
 

@@ -56,11 +56,10 @@ The dashboard features a range of visualizations to explore historical sales dat
 - Geographical distribution of sales
 - Insights into top payment modes, segments, shipping modes, and more
 
-[Dashboard Screenshot](https://github.com/rithikrathii/Superstore-Sales-Analysis-and-Forecasting-PowerBI-Dashboard/blob/main/Super%20Store%20Sales%20Dashboard.jpg)
-
+![Dashboard Screenshot](https://github.com/rithikrathii/Superstore-Sales-Analysis-and-Forecasting-PowerBI-Dashboard/blob/main/Super%20Store%20Sales%20Dashboard.jpg)
 
 ## Sales Forecasting
-[Dashboard Screenshot](https://github.com/rithikrathii/Superstore-Sales-Analysis-and-Forecasting-PowerBI-Dashboard/blob/main/Sales%20Forcast%20for%2015%20days.png)
+![Dashboard Screenshot](https://github.com/rithikrathii/Superstore-Sales-Analysis-and-Forecasting-PowerBI-Dashboard/blob/main/Sales%20Forcast%20for%2015%20days.png)
 ### Forecasting Report
 
 The forecasting page focuses on predicting sales for the upcoming 10 days using historical data and advanced forecasting techniques in Power BI.
